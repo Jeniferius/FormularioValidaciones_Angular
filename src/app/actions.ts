@@ -1,0 +1,2 @@
+export const REGISTRO_STEP1 = 'REGISTRO_STEP1';
+export const REGISTRO_STEP2 = 'REGISTRO_STEP2';
